@@ -1,0 +1,18 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "Simple",
+  "main": "Calculator.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^8.0.1"
+  }
+}
