@@ -17,6 +17,6 @@ Package.json is a most important file which contain all the information that is 
 
 - After that install **npm i mocha chai --save-dev**it install mocha and chai which contain all the developer dependencies.
 
-- After install you will see that dependencies in package.json file.Now in package.json in script part there is a test set a mocha over there.
+- After install you will see that dependencies in package.json file. Now in package.json in script part there is a test part set a mocha over there.
 
-- After this you will reading to go for test before that you will need to write a code for testing look my source file how to write a test code.
+- After this you will reading to go for testing before that you will need to write a code for testing look my source file how to write a test code.
