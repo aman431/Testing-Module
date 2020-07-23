@@ -15,7 +15,7 @@ To test a module or function we need to install mocha and chai. These two module
 - After you install npm then start to execute a command **npm init** which start to create a package.json file<br/>
 Package.json is a most important file which contain all the information that is required to test a module or develope a module. Execute a above command and you will get the result<br/>
 
-- After that install **npm i mocha chai --save-dev**it install mocha and chai which contain all the developer dependencies.
+- After that install **npm i mocha chai --save-dev** it install mocha and chai which contain all the developer dependencies.
 
 - After install you will see that dependencies in package.json file. Now in package.json in script part there is a test part set a mocha over there.
 
